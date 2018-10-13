@@ -1,0 +1,83 @@
+/* Cellphone part*/
+media (min-width:430px){      
+    nav{
+        float:left;
+        background-color: lightblue;
+        width: 15%;
+        height: 2400px;
+    }
+     main{
+         margin-left: 5px;
+         margin-RIGHT:auto;
+         background-color: lightpink:
+         padding-left: 25px;
+         padding-right:25px;
+         width: 64%;
+         display: inline-block;
+         height: 2400px;
+     }
+
+     ul li{
+          list-style-type: :none;       
+     }
+     footer{
+           clear:both;
+           margin-left:auto;
+           margin-right:auto;
+           test-align:{enter}
+           backgrou_color:aquamarine;
+           width: 15%;
+           height:200px;
+     }
+
+aside{
+      float: right:
+      backgroup-color:
+      widows: 15%;
+      height: 2400px                                              
+       
+}
+}    
+/* Desktop Part*/
+media (min-width:981px){      
+    nav{
+        float:left;
+        background-color:  lightblue;
+        width: 15%;
+        height: 500px;
+    }
+     main{
+         margin-left: 5px;
+         margin-RIGHT:auto;
+         background-color: lightpink:
+         padding-left: 25px;
+         padding-right:25px;
+         widt:64%;
+         display: inline-block;
+         height:500px;
+     }
+
+     ul li{
+          list-style-type: none;       
+     }
+     footer{
+           clear:both;
+           margin-left:auto;
+           margin-right:auto;
+           test-align: {enter}
+           backgrou_color:aquamarine;
+           width: 15%;
+           height: 200px;
+     }
+
+aside{
+      float: right:
+      backgroup-color: 
+      widows: 15%;
+      height: 500px;                                              
+       
+}
+}    
+
+
+
